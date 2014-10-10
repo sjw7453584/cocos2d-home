@@ -1,0 +1,3 @@
+/home/sjw/cocos2d-x-3.0/tests/shotGame/build/src/CMakeFiles/shotGame.dir
+/home/sjw/cocos2d-x-3.0/tests/shotGame/build/src/CMakeFiles/shotGame_CORE_PRE_BUILD.dir
+/home/sjw/cocos2d-x-3.0/tests/shotGame/build/src/CMakeFiles/shotGame_PRE_BUILD.dir

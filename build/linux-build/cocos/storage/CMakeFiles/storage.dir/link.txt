@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libstorage.a  CMakeFiles/storage.dir/local-storage/LocalStorage.cpp.o
+/usr/bin/ranlib ../../lib/libstorage.a
